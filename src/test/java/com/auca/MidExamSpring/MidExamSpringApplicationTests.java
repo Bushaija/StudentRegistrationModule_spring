@@ -1,4 +1,4 @@
-package com.auca.MidExamSpring;
+package com.auca.robert;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
